@@ -2472,14 +2472,15 @@
       "locked": {
         "lastModified": 1784729043,
         "narHash": "sha256-iKoce4rdsMrNzD2WcDqL/2WzI8G1dVPusJqBU0DT7Mo=",
-        "owner": "logos-co",
+        "owner": "3esmit",
         "repo": "logos-module-builder",
         "rev": "d48c2f14f9ad24b1a8b0c8fbf17620fef3ddb4e1",
         "type": "github"
       },
       "original": {
-        "owner": "logos-co",
+        "owner": "3esmit",
         "repo": "logos-module-builder",
+        "rev": "d48c2f14f9ad24b1a8b0c8fbf17620fef3ddb4e1",
         "type": "github"
       }
     },
